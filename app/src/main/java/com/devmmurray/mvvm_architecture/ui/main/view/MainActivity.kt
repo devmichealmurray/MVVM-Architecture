@@ -18,6 +18,11 @@ import com.devmmurray.mvvm_architecture.ui.main.viewmodel.MainViewModel
 import com.devmmurray.mvvm_architecture.utils.Status
 import kotlinx.android.synthetic.main.activity_main.*
 
+/**
+ * Project built from MindOrks article
+ * "MVVM Architecture - Android Tutorial for Beginners - Step by Step Guide"
+ * https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
+ */
 
 class MainActivity : AppCompatActivity() {
 
